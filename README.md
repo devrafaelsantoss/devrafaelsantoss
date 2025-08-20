@@ -1,10 +1,9 @@
-# 👩🏻‍💻 Rafael Santos
+# Hi! I’m Rafael Santos!
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Rafael Santos, tenho 19 anos e sou natural do Ceará. Concluí o ensino médio intregrado com o curso técnico em informática. Atualmente, estou cursando Sistemas de informação pela UFC.
-
 ---
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -103,3 +102,7 @@ Me chamo Rafael Santos, tenho 19 anos e sou natural do Ceará. Concluí o ensino
   />
 
 </p>
+
+
+
+
