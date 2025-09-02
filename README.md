@@ -58,8 +58,6 @@
 <a href="devrafaelsantoss@gmail.com">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.instagram.com/eirafaelsantos/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
+
 
 
